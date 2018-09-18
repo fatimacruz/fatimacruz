@@ -1,0 +1,10 @@
+ rubro del sitio: Contexto y segmento de clientes orientado
+      ejemplo: Calzado para damas.
+
+   Nombre del sitio
+       Nombre de dominio -> https://mx.godaddy.com/
+
+   paleta de colores -> https://color.adobe.com/es/create/color-wheel/?base=2&rule=Analogous&selected=3&name=Mi%20tema%20de%20Color&mode=rgb&rgbvalues=1,0.8906313017740082,0.8641092919661739,0.91,0.4171669347475827,0.4125964085778774,1,0.25851402298199067,0.7079666007354938,0.8322064257076377,0.32502188561037854,0.91,0.6331759159259438,0.23705081964843833,1&swatchOrder=0,3,1,2,4
+
+   tipografía -> https://fonts.google.com/?selection.family=Acme|Coiny|Indie+Flower|Lobster+Two|Oswald|Ruslan+Display
+   Boceto de página de inicio

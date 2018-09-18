@@ -1,15 +1,72 @@
-P{ 
-     color: red;
-
-   }
-   #span1{
-
-   	color:green;
-   	font-size: 15px;
-   }
-
- span{
- 	color:blue;
- 	font-family: cursive;
- 	font-size: 30px;
- }
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-cuerpo1{font-weight:bold;background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-6v43{font-weight:bold;background-color:white;text-align:left;vertical-align:top}
+.tg .tg-encabezado{font-weight:bold;background-color:pink;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 395px">
+<colgroup>
+<col style="width: 163px">
+<col style="width: 232px">
+</colgroup>
+  <tr>
+    <th>Datos</th>
+    <th class="tg-encabezado">Descripción</th>
+  </tr>
+  <tr>
+    <td class="tg-cuerpo1">Nombre</td>
+    <td class="tg-c6of">Fatima del Carmen Cruz Rivas</td>
+  </tr>
+  <tr>
+    <td class="tg-6v43">Edad</td>
+    <td class="tg-ycr8">21</td>
+  </tr>
+  <tr>
+    <td class="tg-cuerpo1">Fecha de Nacimiento</td>
+    <td class="tg-c6of">21/02/1997</td>
+  </tr>
+  <tr>
+    <td class="tg-cuerpo1">Lugar de Nacimiento</td>
+    <td class="tg-c6of">Nueva Guadalupe</td>
+  </tr>
+  <tr>
+    <td class="tg-cuerpo1">Nacionalidad</td>
+    <td class="tg-c6of">Salvadoreña</td>
+  </tr>
+  <tr>
+    <td class="tg-cuerpo1">Estado Civil</td>
+    <td class="tg-c6of">Soltera</td>
+  </tr>
+  <tr>
+    <td class="tg-cuerpo1">N* de DUI</td>
+    <td class="tg-c6of">05184628-9</td>
+  </tr>
+  <tr>
+    <td class="tg-cuerpo1">N* de NIC</td>
+    <td class="tg-c6of">1208-456789-120-8</td>
+  </tr>
+  <tr>
+    <td class="tg-cuerpo1">N* de AFP(Crecer)</td>
+    <td class="tg-c6of">178945612358</td>
+  </tr>
+  <tr>
+    <td class="tg-cuerpo1"><span style="font-weight:700">Direccion</span></td>
+    <td class="tg-c6of">col.Montecarlos.San Miguel</td>
+  </tr>
+  <tr>
+    <td class="tg-cuerpo1">Telefono:</td>
+    <td class="tg-c6of">76767878</td>
+  </tr>
+  <tr>
+    <td class="tg-cuerpo1">Email:</td>
+    <td class="tg-c6of"><a href="https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fca%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=AddSession&cid=0&navigationDirection=forward"><span style="font-weight:bolder">fatimacruz21021997@gmail.com</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-zv36">Repositorio en :</td>
+    <td class="tg-c6of"><a href="https://github.com/"><span style="font-weight:bolder">Github</span></a></td>
+  </tr>
+</table>

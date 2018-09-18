@@ -1,19 +1,146 @@
-P{ 
-   }
-   body{color:green;
-   	font-size: 15px;
-   }
- span{
- 	color:green;
- 	font-family: cursive;
- 	font-size: 30px;
 
- 	color:blue;
-   	font-size: 20px;
- 
- 
- tabla{
- 	color:;
- 	font-family: cursive;
- 	font-size: 30px;
- }
+			ul{  list-style-type:none;
+			} 
+             #all-menu  {  width:auto;  
+			 height: 68px; 
+			 background-color:#0f71ba;
+
+			 } 
+			#hola{
+			margin:25px;
+			width:50%;
+			height:50px;
+			
+				font-size:25px;
+				font-family:verdana;
+			}
+             #menu li a{ 
+			 font-family:verdana; 
+			 font-size:15px; 
+			 float:left;  
+			 padding:24px; 
+			 background-color:#0f71ba; 
+			 color: #fff;  
+			 text-decoration:none;  
+			 height:18px;            
+			 } 
+			
+			#menu li a:hover{
+			background-color:#f90;
+			margin-top:-2px; 
+			font-weight:bold;  
+			} 
+			
+			
+			* {
+				margin:0px;
+				padding:0px;
+			}
+			#header{
+			border-radius: 10px 10px 10px 10px ;
+			float:left;
+			margin:0;
+			width:94.7%;
+			height:68px;
+			font-family:Arial, Helvetica, sans-serif;
+			background-color:#ffcccc;
+			}
+			
+			ul{
+				list-style:none;
+			}
+			
+			img{ 
+			float:left;
+				weight:70px;
+				height:70px;
+				
+			}
+			#header .nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#ffcccc;
+				color:#fff;
+				text-decoration:none;
+				padding:25px 10px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#ffccff;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			
+		footer{
+			float:left;
+		}
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+88
