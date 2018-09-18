@@ -25,7 +25,27 @@
 			 height:18px;            
 			 }
 			
-		   
+		   #menu li a:hover{
+			 background-color:#f90;
+			 margin-top:-2px; /*establece la anchura de su margen superior,*/
+			 font-weight:bold;  /*especifica el peso o grueso de la letra. */
+			} 
+			* {
+		      margin:0px;
+			  padding:0px;
+			}
+			#header{
+			  border-radius: 10px 10px 10px 10px ;/*  definir qué tan redondeadas serán las esquinas*/
+			  float:left; /*especifica  a donde  aparecer a la izquierda o a la derecha*/
+			  margin:0;/*  que se utilizan para establecer de forma abreviada el valor de una o más ...*/
+			  width:94.7%;
+			  height:68px;
+			  font-family:Arial, Helvetica, sans-serif;
+			  background-color:#E933FF;
+			}
+			
+			
+4
 5
 6
 7
