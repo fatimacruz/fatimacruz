@@ -2,8 +2,7 @@
 		ul{  list-style-type:none; /*establece el marcador que muestra cada elemento de las listas */
 		  
 		    } 
-           #all-menu  {
-			   width:auto; /* ancho.*/  
+           #all-menu  {  width:auto; /* ancho.*/  
 			  height: 68px; /*especifica la altura del area de contenido.*/
 			  background-color:#0f71ba;/*define el color de fondo.*/
                   
@@ -44,7 +43,44 @@
 			  background-color:#E933FF;
 			}
 			
+			ul{
+				list-style:none;/*permite definir de golpe todos los parámetros*/
+			}
+			#header .nav > li { /* para la definición de cabeceras de páginas web */
+				float:left;
+			}
 			
+			.nav li a {/*Crea un menú de navegación. */
+				background-color:#E933FF;
+				color:#fff;
+				text-decoration:none;/* establece la decoración que se aplica al texto de un elemento*/
+				padding:25px 10px;
+				display:block;/*especifica el tipo de cuadro de representación utilizado para un elemento.*/
+			}
+			
+			.nav li a:hover {
+				background-color:#E933FF;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;/*Explicamos los distintos valores que puede tener el atributo*/
+				min-width:140px;/* se usa para determinar la anchura mínima de un elemento. */
+
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative; /* Los posibles valores que puede adoptar la propiedad */
+			}
+			
+			
+		footer{/* representa un pie de página*/
+			float:left;
+		}
 4
 5
 6
