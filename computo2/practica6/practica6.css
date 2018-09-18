@@ -1,97 +1,31 @@
 
-			ul{  list-style-type:none;
-			} 
-             #all-menu  {  width:auto;  
-			 height: 68px; 
-			 background-color:#0f71ba;
-
-			 } 
-			#hola{
-			margin:25px;
-			width:50%;
-			height:50px;
+		ul{  list-style-type:none; /*establece el marcador que muestra cada elemento de las listas */
+		  
+		    } 
+           #all-menu  {
+			   width:auto; /* ancho.*/  
+			  height: 68px; /*especifica la altura del area de contenido.*/
+			  background-color:#0f71ba;/*define el color de fondo.*/
+                  
+		   }#hola{ 
+			  margin:25px;/*establece el margen para los cuatro lados.*/
+			  width:50%;  
+			  height:50px;
 			
-				font-size:25px;
-				font-family:verdana;
-			}
-             #menu li a{ 
+			  font-size:25px;/*especifica la dimensión de la letra.*/
+			  font-family:verdana;/*el tipo de letra o familia de tipos de letra*/
+		   }#menu li a{ 
 			 font-family:verdana; 
 			 font-size:15px; 
-			 float:left;  
-			 padding:24px; 
+			 float:left;  /*posiciona una caja moviéndola todo lo posible a la izquierda o derecha*/
+			 padding:24px; /*establece el espacio de relleno requerido por todos los lados de un elemento*/
 			 background-color:#0f71ba; 
-			 color: #fff;  
-			 text-decoration:none;  
+			 color: #fff;  /*da color*/
+			 text-decoration:none;  /* se usa para establecer el formato de texto a subrayado*/
 			 height:18px;            
-			 } 
+			 }
 			
-			#menu li a:hover{
-			background-color:#f90;
-			margin-top:-2px; 
-			font-weight:bold;  
-			} 
-			
-			
-			* {
-				margin:0px;
-				padding:0px;
-			}
-			#header{
-			border-radius: 10px 10px 10px 10px ;
-			float:left;
-			margin:0;
-			width:94.7%;
-			height:68px;
-			font-family:Arial, Helvetica, sans-serif;
-			background-color:#ffcccc;
-			}
-			
-			ul{
-				list-style:none;
-			}
-			
-			img{ 
-			float:left;
-				weight:70px;
-				height:70px;
-				
-			}
-			#header .nav > li {
-				float:left;
-			}
-			
-			.nav li a {
-				background-color:#ffcccc;
-				color:#fff;
-				text-decoration:none;
-				padding:25px 10px;
-				display:block;
-			}
-			
-			.nav li a:hover {
-				background-color:#ffccff;
-			}
-			
-			.nav li ul {
-				display:none;
-				position:absolute;
-				min-width:140px;
-
-			}
-			
-			.nav li:hover > ul {
-				display:block;
-			}
-			
-			.nav li ul li {
-				position:relative;
-			}
-			
-			
-		footer{
-			float:left;
-		}
-4
+		   
 5
 6
 7
