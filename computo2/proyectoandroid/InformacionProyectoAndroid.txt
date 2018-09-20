@@ -1,0 +1,1 @@
+Un problema sería que el sitio se ponga lento por la cantidad de imágenes que tiene que cargar etc. O por la cantidad de personas que visitan el sitio se ponga lento.
