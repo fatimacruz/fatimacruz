@@ -1,0 +1,82 @@
+ul{  list-style-type:none; /*establece el marcador que muestra cada elemento de las listas */
+		  
+		    } 
+           #all-menu  {  width:auto; /* ancho.*/  
+			  height: 68px; /*especifica la altura del area de contenido.*/
+			  background-color:#0f71ba;/*define el color de fondo.*/
+                  
+		   }#hola{ 
+			  margin:25px;/*establece el margen para los cuatro lados.*/
+			  width:50%;  
+			  height:50px;
+			
+			  font-size:25px;/*especifica la dimensión de la letra.*/
+			  font-family:verdana;/*el tipo de letra o familia de tipos de letra*/
+		   }#menu li a{ 
+			 font-family:verdana; 
+			 font-size:15px; 
+			 float:left;  /*posiciona una caja moviéndola todo lo posible a la izquierda o derecha*/
+			 padding:24px; /*establece el espacio de relleno requerido por todos los lados de un elemento*/
+			 background-color:#0f71ba; 
+			 color: #fff;  /*da color*/
+			 text-decoration:none;  /* se usa para establecer el formato de texto a subrayado*/
+			 height:18px;            
+			 }
+			
+		   #menu li a:hover{
+			 background-color:#f90;
+			 margin-top:-2px; /*establece la anchura de su margen superior,*/
+			 font-weight:bold;  /*especifica el peso o grueso de la letra. */
+			} 
+			* {
+		      margin:0px;
+			  padding:0px;
+			}
+			#header{
+			  border-radius: 10px 10px 10px 10px ;/*  definir qué tan redondeadas serán las esquinas*/
+			  float:left; /*especifica  a donde  aparecer a la izquierda o a la derecha*/
+			  margin:0;/*  que se utilizan para establecer de forma abreviada el valor de una o más ...*/
+			  width:94.7%;
+			  height:68px;
+			  font-family:Arial, Helvetica, sans-serif;
+			  background-color:#E933FF;
+			}
+			
+			ul{
+				list-style:none;/*permite definir de golpe todos los parámetros*/
+			}
+			#header .nav > li { /* para la definición de cabeceras de páginas web */
+				float:left;
+			}
+			
+			.nav li a {/*Crea un menú de navegación. */
+				background-color:#E933FF;
+				color:#fff;
+				text-decoration:none;/* establece la decoración que se aplica al texto de un elemento*/
+				padding:25px 10px;
+				display:block;/*especifica el tipo de cuadro de representación utilizado para un elemento.*/
+			}
+			
+			.nav li a:hover {
+				background-color:#E933FF;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;/*Explicamos los distintos valores que puede tener el atributo*/
+				min-width:140px;/* se usa para determinar la anchura mínima de un elemento. */
+
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative; /* Los posibles valores que puede adoptar la propiedad */
+			}
+			
+			
+		footer{/* representa un pie de página*/
+			float:left;
+		}
