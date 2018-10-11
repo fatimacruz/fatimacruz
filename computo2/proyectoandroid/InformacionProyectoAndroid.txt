@@ -1,1 +1,12 @@
-Un problema sería que el sitio se ponga lento por la cantidad de imágenes que tiene que cargar etc. O por la cantidad de personas que visitan el sitio se ponga lento.
+Compras en el sistema, se guardara las compras e informacion del usuario. para poder tener unn registro.
+
+nombre
+fecha 
+dui
+cantidad del producto
+costo  del producto
+total del producto 
+correo
+dirreccion
+
+
