@@ -1,7 +1,28 @@
+.riw> div{
+	color:#0B4C5F;
+    text-align: center;
+	font-size :60px;	
+				
+	padding: 10px;
+	background: #ddd;
+	border: 1px solid #fff;
+     }
+.riw{ 
+    margin: 40px auto;
+}
+.riw> div{
+	padding: 10px;
+	background: #ddd;
+	border: 1px solid #fff;
+     }
+.riw{ 
+    margin: 40px auto;
+}
+
 .row> div{
 	color:#0B4C5F;
     text-align: center;
-	font-size :40px;	
+	font-size :20px;	
 				
 	padding: 10px;
 	background: #ddd;
@@ -18,6 +39,7 @@
 .row{ 
     margin: 40px auto;
 }
+
 
 
 /*me nu principal*/
@@ -184,11 +206,12 @@ img {
 .na li a {
     background-color:#A178FF;
 	color:#fff;
+	font-size:25px;
 	text-decoration:none;
 	padding:1px 1px;
 	display:block;
 	z-index:1000;
-	
+	width:100%;
 }
 			
 .na li a:hover {
@@ -217,7 +240,7 @@ img {
 	height:50%;
 }
 #imagee{
-	width:10%;
+	width:5%;
 	height:10%;
 }
 
