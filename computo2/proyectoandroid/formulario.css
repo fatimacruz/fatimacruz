@@ -1,0 +1,46 @@
+
+.row> div{
+	color:#0B4C5F;
+    text-align: center;
+	font-size :20px;	
+				
+	padding: 10px;
+	background: #ddd;
+	border: 1px solid #fff;
+     }
+.row{ 
+    margin: 40px auto;
+}
+.row> div{
+	padding: 10px;
+	background: #ddd;
+	border: 1px solid #fff;
+     }
+.row{ 
+    margin: 40px auto;
+}
+
+
+
+
+.riw> div{
+	color:#0B4C5F;
+    text-align: center;
+	font-size :20px;	
+				
+	padding: 10px;
+	background: #ddd;
+	border: 1px solid #fff;
+     }
+	 
+.riw{ 
+    margin: 40px auto;
+}
+.riw> div{
+	padding: 10px;
+	background: #ddd;
+	border: 1px solid #fff;
+     }
+.riw{ 
+    margin: 40px auto;
+}

@@ -1,0 +1,12 @@
+Compras en el sistema, se guardara las compras e informacion del usuario. para poder tener unn registro.
+
+nombre
+fecha 
+dui
+cantidad del producto
+costo  del producto
+total del producto 
+correo
+dirreccion
+
+
